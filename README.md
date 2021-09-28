@@ -52,7 +52,7 @@
 
 ![Metrics](https://metrics.lecoq.io/BlackAmda?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=BlackAmda&theme=highcontrast&repo=QueenAmdi)](https://github.com/BlackAmda/QueenAmdi)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Janithsadanuwan&theme=highcontrast&repo=Kingbot)](https://github.com/janith12345sa/KingBot)
 
 </details>
 
