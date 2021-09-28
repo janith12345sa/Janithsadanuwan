@@ -1,6 +1,6 @@
-<h2 align="center">Hello👁<br>I'm😈Janith sadanuwan😈 🏻‍♂️</h1>
+<h2 align="center">Hello👁<br>I'm😈Janith sadanuwan😈🏻‍♂️</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
-<h7 align="left">Moreover, I am the founder of the😈kingbot😈whatsapp user bot project. <br>😈kingbot😈Project </h7>
+<h7 align="left">Moreover, I am the founder of the😈kingbot😈whatsapp user bot project.
 
 ##
 <p align="center">
